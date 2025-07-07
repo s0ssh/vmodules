@@ -1,0 +1,7 @@
+**/apio.ini
+**/*.bit
+**/*.lpf
+**/*.pcf
+**/*.config
+**/*.json
+**/*.dblite
